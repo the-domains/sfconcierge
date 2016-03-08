@@ -1,0 +1,28 @@
+name: SFConcierge
+favicon: null
+layout_spectrum: 0.8463184603024274
+typography_spectrum: 0.9593168364372104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6127606502268463
+  lightness: 0.9969194687437266
+  saturation: 0.8484220413956791
+  rhythmicContrast: 0.4418144531082362
+purpose: []
